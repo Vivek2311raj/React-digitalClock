@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../styles/App.css";
 const App = () => {
-  const [time, setTime] = useState("12/17/2021, 6:24:00 PM");
+  const [time, setTime] = useState("02/13/2023, 9:08:00 AM");
   const [intervalId, setIntervalId] = useState();
 
   useEffect(() => {
